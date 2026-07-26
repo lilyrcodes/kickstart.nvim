@@ -554,8 +554,12 @@ require('lazy').setup({
         gopls = {},
         html = {},
         jsonls = {},
+        ltex_plus = {},
         pylsp = {},
+        rust_analyzer = {},
+        stylua = {},
         svelte = {},
+        textlint = {},
         ts_ls = {},
         yamlls = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
