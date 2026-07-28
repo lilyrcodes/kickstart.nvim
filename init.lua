@@ -554,7 +554,6 @@ require('lazy').setup({
         gopls = {},
         html = {},
         jsonls = {},
-        ltex_plus = {},
         pylsp = {},
         rust_analyzer = {},
         stylua = {},
